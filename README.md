@@ -8,8 +8,8 @@ I would advise overclocking your calculator using a tool such as [ftune](http://
 
 ## Controls
 
-- + zoom in
-- - zoom out
+- \+ zoom in
+- \- zoom out
 - ↑ pan up
 - ↓ pan down
 - ← pan left
